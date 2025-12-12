@@ -12,7 +12,7 @@ class MyApp extends StatefulWidget {
   @override
   State<MyApp> createState() => _MyAppState();
 }
-//hihi is me
+//hihi me
 class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
@@ -70,7 +70,7 @@ class _MyAppState extends State<MyApp> {
                   children: [
                     Icon(Icons.mail),
                     const Gap(10),
-                    Text('s111219041@stu.ntue.edu.tw',
+                    Text('s111219043@stu.ntue.edu.tw',
                       style: TextStyle(
                         fontSize: 18
                       ),
