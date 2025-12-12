@@ -70,7 +70,7 @@ class _MyAppState extends State<MyApp> {
                   children: [
                     Icon(Icons.mail),
                     const Gap(10),
-                    Text('s111219050@stu.ntue.edu.tw',
+                    Text('s111219041@stu.ntue.edu.tw',
                       style: TextStyle(
                         fontSize: 18
                       ),
