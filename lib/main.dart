@@ -12,7 +12,7 @@ class MyApp extends StatefulWidget {
   @override
   State<MyApp> createState() => _MyAppState();
 }
-//hihi me
+//hihi is me
 class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
@@ -58,7 +58,6 @@ class _MyAppState extends State<MyApp> {
                 ),
               ),
               const Gap(50),
-              //hi
               Container(
                 width: 350,
                 height: 75,
